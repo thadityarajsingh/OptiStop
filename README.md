@@ -57,10 +57,8 @@ OptiStop/
     └── README.md
 ```
 
-## Hackathon framing
-
-**One-line pitch:** OptiStop makes the decision to stop searching adaptive by combining opportunity quality, changing regimes, uncertainty, and strategic search costs.
+OptiStop makes the decision to stop searching adaptive by combining opportunity quality, changing regimes, uncertainty, and strategic search costs.
 
 ## Limitations
 
-This is a hackathon/research prototype. The benchmark scenarios are synthetic and the game-theoretic component is a payoff framing rather than a claim of a universal Nash equilibrium. Real-world validation would require domain-specific data, calibration, and robustness testing.
+This is a research prototype. The benchmark scenarios are synthetic and the game-theoretic component is a payoff framing rather than a claim of a universal Nash equilibrium. Real-world validation would require domain-specific data, calibration, and robustness testing.
